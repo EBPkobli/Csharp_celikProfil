@@ -1,0 +1,11 @@
+c:\users\furkan\documents\visual studio 2012\Projects\Çelik\Çelik\bin\Debug\Çelik.exe.config
+C:\Users\Furkan\documents\visual studio 2012\Projects\Çelik\Çelik\bin\Debug\Çelik.exe
+C:\Users\Furkan\documents\visual studio 2012\Projects\Çelik\Çelik\bin\Debug\Çelik.pdb
+C:\Users\Furkan\documents\visual studio 2012\Projects\Çelik\Çelik\obj\Debug\Çelik.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\documents\visual studio 2012\Projects\Çelik\Çelik\obj\Debug\Çelik.Form1.resources
+C:\Users\Furkan\documents\visual studio 2012\Projects\Çelik\Çelik\obj\Debug\Çelik.Properties.Resources.resources
+C:\Users\Furkan\documents\visual studio 2012\Projects\Çelik\Çelik\obj\Debug\Çelik.csproj.GenerateResource.Cache
+C:\Users\Furkan\documents\visual studio 2012\Projects\Çelik\Çelik\obj\Debug\Çelik.exe
+C:\Users\Furkan\documents\visual studio 2012\Projects\Çelik\Çelik\obj\Debug\Çelik.pdb
+C:\Users\Furkan\documents\visual studio 2012\Projects\Çelik\Çelik\obj\Debug\Çelik.Form2.resources
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\Çelik\Çelik\obj\Debug\Çelik.csproj.ResolveComReference.cache
